@@ -1,0 +1,14 @@
+version 2
+1
+9
+.tran 1m 1{return}.kicad adjustpaths{return}.save all{return}.probe alli
+3
+1
+V(Net-_U1-+_)
+ 
+1
+V(Net-_U1--_)
+ 
+1
+V(out)
+ 

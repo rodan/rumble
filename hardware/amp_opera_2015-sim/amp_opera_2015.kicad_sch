@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f25ca59a-9aaf-4289-ba4e-6776f9aa37b5)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 26.67 31.75) (size 92.71 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6dc42fa4-dc51-4a90-9dbd-320128ed5c8f)
+    (property "Sheetname" "opera 2015 - simulation" (at 26.67 29.6734 0)
+      (effects (font (size 4 4)) (justify left bottom))
+    )
+    (property "Sheetfile" "spice - opera 2015.kicad_sch" (at 26.67 65.3546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "amp_opera_2015"
+        (path "/f25ca59a-9aaf-4289-ba4e-6776f9aa37b5" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
