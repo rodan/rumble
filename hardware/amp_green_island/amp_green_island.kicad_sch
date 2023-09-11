@@ -1,0 +1,105 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 43b74afa-5a12-461c-abea-555792070363)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 48.26 143.51) (size 55.88 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0987ffe6-7edf-43c2-bb56-b15c4796e466)
+    (property "Sheetname" "preamp_ch4" (at 48.26 142.7984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "preamp_ch4.kicad_sch" (at 48.26 169.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 48.26 143.51 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "amp_green_island"
+        (path "/43b74afa-5a12-461c-abea-555792070363" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 175.26 113.03) (size 71.12 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0e182138-df54-4e11-b7e0-1289ccbdc8e5)
+    (property "Sheetname" "connections" (at 175.26 112.3184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "connections.kicad_sch" (at 175.26 140.2846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 175.26 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "amp_green_island"
+        (path "/43b74afa-5a12-461c-abea-555792070363" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 48.26 69.85) (size 55.88 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4f3e8a5c-4ced-4071-97d7-9b9a4685f0d0)
+    (property "Sheetname" "preamp_ch2" (at 48.26 69.1384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "preamp_ch2.kicad_sch" (at 48.26 95.8346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "amp_green_island"
+        (path "/43b74afa-5a12-461c-abea-555792070363" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 48.26 34.29) (size 55.88 22.86) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 90ef063d-5633-4c35-ac00-abdd66621609)
+    (property "Sheetname" "preamp_ch1" (at 48.26 32.7134 0)
+      (effects (font (size 3 3)) (justify left bottom))
+    )
+    (property "Sheetfile" "preamp_ch1.kicad_sch" (at 48.26 57.7346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "amp_green_island"
+        (path "/43b74afa-5a12-461c-abea-555792070363" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 48.26 105.41) (size 55.88 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d2ee8924-24ae-4d6a-94e1-1dbdd7511e69)
+    (property "Sheetname" "preamp_ch3" (at 48.26 104.6984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "preamp_ch3.kicad_sch" (at 48.26 132.6646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "amp_green_island"
+        (path "/43b74afa-5a12-461c-abea-555792070363" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
